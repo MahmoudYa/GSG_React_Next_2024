@@ -4,7 +4,18 @@
   padding: 2rem;
   text-align: center;
 }
+h1{
+  margin: 15px;
+  font-size: 40px;
+}
 
+.mainApp {
+  
+  background-color: rgb(216, 156, 54);
+  width: 400px;
+  height: 570px;
+  border: 5px wheat solid;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
