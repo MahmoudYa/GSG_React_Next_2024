@@ -1,0 +1,15 @@
+.result-display {
+    color: rgb(54, 52, 52);
+    padding: 10px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    height: 50px;
+    background-color: #daeaed;
+    border-radius: 10px;
+    display: flex; 
+    align-items: center; 
+    justify-content: left;
+
+  }
+  
