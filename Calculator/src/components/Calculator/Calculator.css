@@ -1,0 +1,32 @@
+.calculator-container {
+    margin: 20px auto;
+    width: 230px;
+    text-align: center;
+    background-color: #fff;
+    padding: 50px;
+  }
+  
+  .button-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  button {
+    padding: 15px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: rgb(25, 76, 138);
+    transition: background-color 0.3s ease;
+  }
+  .button1{
+    background-color: rgb(191, 144, 57);
+  }
+  .button2{
+    background-color: rgb(47, 169, 47);
+  }
+  
+  button:hover {
+    background-color: #bdb8b8;
+  }
+  
