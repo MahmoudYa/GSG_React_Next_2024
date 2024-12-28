@@ -1,0 +1,16 @@
+.all-todos{
+    border: 2px rgb(181, 130, 36) solid;
+    height: 175px;
+    overflow-y: auto;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.all-todos::-webkit-scrollbar {
+    background: #e6c866; 
+    
+}
+.all-todos::-webkit-scrollbar-thumb {
+    background-color: #af8a02;
+    border-radius: 5px; 
+}
